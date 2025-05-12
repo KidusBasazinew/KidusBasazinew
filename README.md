@@ -45,9 +45,12 @@ Hey, I'm Kidus — a passionate indie developer building digital experiences tha
 
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-  Hi, I'm Kidus Basazinew — a passionate and self-driven Front-End Developer with hands-on experience in Back-End Development.
+Hi, I'm Kidus Basazinew — a passionate and self-driven Front-End Developer with hands-on experience in Back-End Development.
+  <br/>
 My journey in tech started with a childhood curiosity. I loved playing video games and watching animations, always wondering "how do they make these?" That curiosity led me into game development, where I started exploring how games are built. Although I found it exciting, I soon realized that creating games involves many complex areas — from physics engines to simulations — which were hard to handle alone, especially as a beginner.
+  <br/>
 So, I pivoted to web development, and that’s where everything clicked. I quickly picked up HTML and CSS, then moved on to JavaScript. Each stage was exciting — I built simple yet fun projects like a calculator, weather app, and e-commerce layouts. Learning React was a game-changer, and diving into Next.js added powerful routing and full-stack capabilities to my toolbox.
+  <br/>
 As I progressed, I expanded into the backend world — working with CRUD operations, ORMs, and database integrations. This allowed me to build complete, production-level applications. Some of my notable projects include:
 <ul>
 <li>A Hotel Management System with full integration.</li>
