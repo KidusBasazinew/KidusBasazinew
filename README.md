@@ -24,25 +24,30 @@ Hey, I'm Kidus — a passionate indie developer building digital experiences tha
 <ul>
 
   <li>
-    <strong><a href="https://github.com/KidusBasazinew/ai-travel-planner">AI-Based Travel Planner</a></strong> 🧠<br>
+    <strong><a href="https://github.com/KidusBasazinew/ai_travel_agenct">AI-Based Travel Planner</a></strong> 🧠<br>
     A smart planner that checks live weather and suggests destinations dynamically.<br>
-    <em>Built with OpenWeather API & AI logic in JavaScript</em>
+    <em>Built with React</em>
+  </li>
+   <li>
+    <strong><a href="https://github.com/KidusBasazinew/ai_travel_agenct">Car Rental</a></strong> <br>
+    A modern website that helpes users renting cars and onthere want<br>
+    <em>Built with Nextjs</em>
   </li>
   <li>
-    <strong><a href="https://klabs.vercel.app">K-Labs</a></strong><br>
+    <strong><a href="https://github.com/KidusBasazinew/k-labs">K-Labs</a></strong><br>
     A modern agency website offering web development, marketing, branding, and motion graphics services.<br>
     <em>Built with Next.js & Tailwind CSS</em>
   </li>
   <li>
-    <strong><a href="https://github.com/KidusBasazinew/hotel-management-system">Hotel Management System</a></strong> 🏨<br>
+    <strong><a href="https://github.com/KidusBasazinew/hotel_room_booking">Hotel Management System</a></strong> 🏨<br>
     A full-featured hotel reservation and management system with backend integration.<br>
-    <em>Built with Next.js, Prisma, and MySQL</em>
+    <em>Built with Next.js, appwrite</em>
   </li>
 
   <li>
     <strong><a href="https://github.com/KidusBasazinew/restaurant-table-booking">Restaurant Table Booking and Ordering System</a></strong> 🍽️<br>
     An interactive system that lets users reserve tables and order meals ahead of time.<br>
-    <em>Built with React and Node.js</em>
+    <em>Built with Nextjs ,Superbase</em>
   </li>
 </ul>
 
