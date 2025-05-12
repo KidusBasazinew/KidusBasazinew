@@ -43,7 +43,6 @@ Hey, I'm Kidus — a passionate indie developer building digital experiences tha
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-##
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
   Hi, I'm Kidus Basazinew — a passionate and self-driven Front-End Developer with hands-on experience in Back-End Development.
