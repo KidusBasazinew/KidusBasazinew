@@ -29,7 +29,7 @@ Hey, I'm Kidus — a passionate indie developer building digital experiences tha
     <em>Built with React</em>
   </li>
    <li>
-    <strong><a href="https://github.com/KidusBasazinew/ai_travel_agenct">Car Rental</a></strong> <br>
+    <strong><a href="https://github.com/KidusBasazinew/carrental">Car Rental</a></strong> <br>
     A modern website that helpes users renting cars and onthere want<br>
     <em>Built with Nextjs</em>
   </li>
