@@ -46,6 +46,15 @@ Hey, I'm Kidus — a passionate indie developer building digital experiences tha
 ##
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+  Hi, I'm Kidus Basazinew — a passionate and self-driven Front-End Developer with hands-on experience in Back-End Development.
+My journey in tech started with a childhood curiosity. I loved playing video games and watching animations, always wondering "how do they make these?" That curiosity led me into game development, where I started exploring how games are built. Although I found it exciting, I soon realized that creating games involves many complex areas — from physics engines to simulations — which were hard to handle alone, especially as a beginner.
+So, I pivoted to web development, and that’s where everything clicked. I quickly picked up HTML and CSS, then moved on to JavaScript. Each stage was exciting — I built simple yet fun projects like a calculator, weather app, and e-commerce layouts. Learning React was a game-changer, and diving into Next.js added powerful routing and full-stack capabilities to my toolbox.
+As I progressed, I expanded into the backend world — working with CRUD operations, ORMs, and database integrations. This allowed me to build complete, production-level applications. Some of my notable projects include:
+<ul>
+<li>A Hotel Management System with full integration.</li>
+<li>A Restaurant Table Booking and Ordering System.</li>
+<li>An AI-Based Travel Planner that dynamically checks weather conditions and recommends trips — a standout project showcasing AI integration and creative problem-solving.</li>
+</ul>
+I love solving real-world problems through code, and I'm always exploring new technologies and building impactful projects.
 
 [website]: https://kidusbws.vercel.app
