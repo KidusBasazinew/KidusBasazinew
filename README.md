@@ -44,19 +44,43 @@ Hey, I'm Kidus — a passionate indie developer building digital experiences tha
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-Hi, I'm Kidus Basazinew — a passionate and self-driven Front-End Developer with hands-on experience in Back-End Development.
-  <br/>
-My journey in tech started with a childhood curiosity. I loved playing video games and watching animations, always wondering "how do they make these?" That curiosity led me into game development, where I started exploring how games are built. Although I found it exciting, I soon realized that creating games involves many complex areas — from physics engines to simulations — which were hard to handle alone, especially as a beginner.
-  <br/>
-So, I pivoted to web development, and that’s where everything clicked. I quickly picked up HTML and CSS, then moved on to JavaScript. Each stage was exciting — I built simple yet fun projects like a calculator, weather app, and e-commerce layouts. Learning React was a game-changer, and diving into Next.js added powerful routing and full-stack capabilities to my toolbox.
-  <br/>
-As I progressed, I expanded into the backend world — working with CRUD operations, ORMs, and database integrations. This allowed me to build complete, production-level applications. Some of my notable projects include:
-<ul>
-<li>A Hotel Management System with full integration.</li>
-<li>A Restaurant Table Booking and Ordering System.</li>
-<li>An AI-Based Travel Planner that dynamically checks weather conditions and recommends trips — a standout project showcasing AI integration and creative problem-solving.</li>
-</ul>
-I love solving real-world problems through code, and I'm always exploring new technologies and building impactful projects.
+  <summary><h3>👨‍💻 Kidus' Coding Journey</h3></summary>
+
+  <p>
+    Hi, I'm <strong>Kidus Basazinew</strong> — a passionate and self-driven <strong>Front-End Developer</strong> with hands-on experience in <strong>Back-End Development</strong>.
+  </p>
+
+  <p>
+    My journey in tech began with a childhood curiosity. I loved playing video games and watching animations, always wondering <em>"how do they make these?"</em> That curiosity led me into game development, where I started exploring how games are built.
+  </p>
+
+  <p>
+    Although game dev was exciting, I realized it involves many complex areas — like physics engines and simulations — that were difficult to handle on my own, especially as a beginner.
+  </p>
+
+  <p>
+    So, I shifted to <strong>web development</strong>, and that’s where everything clicked. I quickly picked up <strong>HTML</strong> and <strong>CSS</strong>, followed by <strong>JavaScript</strong>. Each stage of learning was exciting — I built projects like a calculator, weather app, and e-commerce layout.
+  </p>
+
+  <p>
+    Learning <strong>React</strong> was a game-changer, and diving into <strong>Next.js</strong> brought full-stack power to my skillset — from routing to API handling.
+  </p>
+
+  <p>
+    I later explored backend technologies like <strong>CRUD operations</strong>, <strong>ORMs</strong>, and <strong>database integrations</strong>. This enabled me to create real-world, production-level applications.
+  </p>
+
+  <p>Some of my notable projects include:</p>
+  <ul>
+    <li>🏨 A <strong>Hotel Management System</strong> with full backend integration.</li>
+    <li>🍽️ A <strong>Restaurant Table Booking and Ordering System</strong>.</li>
+    <li>🧠 An <strong>AI-Based Travel Planner</strong> that checks weather conditions and recommends dynamic trips.</li>
+  </ul>
+
+  <p>
+    I love solving real-world problems through code and constantly explore new tools, technologies, and ways to build impactful solutions.
+  </p>
+</details>
+
 
 [website]: https://kidusbws.vercel.app
