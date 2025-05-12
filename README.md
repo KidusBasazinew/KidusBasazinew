@@ -9,34 +9,61 @@ Hey, I'm Kidus — a passionate indie developer building digital experiences tha
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NextJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
+<img align="left" alt="Next.js" width="30px" style="padding-right:10px; filter: brightness(0) invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px; filter: brightness(0) invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
+
 <br />
 
 
 <!-- BEGIN YOUTUBE-CARDS -->
-### 📺 Latest Projects
+<h3>📺 Latest Projects</h3>
 
+<ul>
+  <li>
+    <strong><a href="https://klabs.vercel.app">K-Labs</a></strong><br>
+    A modern agency website offering web development, marketing, branding, and motion graphics services.<br>
+    <em>Built with Next.js & Tailwind CSS</em>
+  </li>
 
-- **[K-Labs](https://klabs.vercel.app)**  
-  A modern agency website offering web development, marketing, branding, and motion graphics services.  
-  _Built with Next.js & Tailwind CSS_
+  <li>
+    <strong><a href="https://github.com/KidusBasazinew/fruit-ecommerce">Fruit E-commerce</a></strong><br>
+    A sleek fruit store with full cart functionality and admin panel.<br>
+    <em>Built with Next.js, Prisma, and MySQL</em>
+  </li>
 
-- **[Fruit E-commerce](https://github.com/KidusBasazinew/fruit-ecommerce)**  
-  A sleek fruit store with full cart functionality and admin panel.  
-  _Built with Next.js, Prisma, and MySQL_
+  <li>
+    <strong><a href="https://github.com/KidusBasazinew/restaurant-booking">Restaurant Booking</a></strong><br>
+    A user-friendly restaurant website for viewing menus and booking tables.<br>
+    <em>Built with React and CSS Modules</em>
+  </li>
 
-- **[Restaurant Booking](https://github.com/KidusBasazinew/restaurant-booking)**  
-  A user-friendly restaurant website for viewing menus and booking tables.  
-  _Built with React and CSS Modules_
+  <li>
+    <strong><a href="https://github.com/KidusBasazinew/real-estate-app">Real Estate App</a></strong><br>
+    Search and list properties with responsive UI and modern tools.<br>
+    <em>Built with Next.js and Supabase</em>
+  </li>
 
-- **[Real Estate App](https://github.com/KidusBasazinew/real-estate-app)**  
-  Search and list properties with responsive UI and modern tools.  
-  _Built with Next.js and Supabase_
+  <li>
+    <strong><a href="https://github.com/KidusBasazinew/hotel-management-system">Hotel Management System</a></strong> 🏨<br>
+    A full-featured hotel reservation and management system with backend integration.<br>
+    <em>Built with Next.js, Prisma, and MySQL</em>
+  </li>
 
+  <li>
+    <strong><a href="https://github.com/KidusBasazinew/restaurant-table-booking">Restaurant Table Booking and Ordering System</a></strong> 🍽️<br>
+    An interactive system that lets users reserve tables and order meals ahead of time.<br>
+    <em>Built with React and Node.js</em>
+  </li>
 
+  <li>
+    <strong><a href="https://github.com/KidusBasazinew/ai-travel-planner">AI-Based Travel Planner</a></strong> 🧠<br>
+    A smart planner that checks live weather and suggests destinations dynamically.<br>
+    <em>Built with OpenWeather API & AI logic in JavaScript</em>
+  </li>
+</ul>
 
 <details>
   <summary><h3>👨‍💻 Kidus' Coding Journey</h3></summary>
