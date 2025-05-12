@@ -40,15 +40,15 @@ I also share my journey, projects, and dev tips through short-form content and e
   A modern agency website offering web development, marketing, branding, and motion graphics services.  
   _Built with Next.js & Tailwind CSS_
 
-- **[Fruit E-commerce](https://github.com/yourusername/fruit-ecommerce)**  
+- **[Fruit E-commerce](https://github.com/KidusBasazinew/fruit-ecommerce)**  
   A sleek fruit store with full cart functionality and admin panel.  
   _Built with Next.js, Prisma, and MySQL_
 
-- **[Restaurant Booking](https://github.com/yourusername/restaurant-booking)**  
+- **[Restaurant Booking](https://github.com/KidusBasazinew/restaurant-booking)**  
   A user-friendly restaurant website for viewing menus and booking tables.  
   _Built with React and CSS Modules_
 
-- **[Real Estate App](https://github.com/yourusername/real-estate-app)**  
+- **[Real Estate App](https://github.com/KidusBasazinew/real-estate-app)**  
   Search and list properties with responsive UI and modern tools.  
   _Built with Next.js and Supabase_
 
