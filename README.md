@@ -3,9 +3,6 @@
 
 Hey, I'm Kidus — a passionate indie developer building digital experiences that matter. Whether it's a stunning frontend, a robust backend, or something totally out of the box, I'm all about solving real-world problems through code and creativity. Every line I write, and every pixel I design, is part of my journey to leave a digital mark.
 
-I also share my journey, projects, and dev tips through short-form content and educational projects. Always building, always learning.
-
-
 ### 🧰 Languages and Tools
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
