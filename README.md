@@ -22,30 +22,17 @@ Hey, I'm Kidus — a passionate indie developer building digital experiences tha
 <h3>📺 Latest Projects</h3>
 
 <ul>
+
+  <li>
+    <strong><a href="https://github.com/KidusBasazinew/ai-travel-planner">AI-Based Travel Planner</a></strong> 🧠<br>
+    A smart planner that checks live weather and suggests destinations dynamically.<br>
+    <em>Built with OpenWeather API & AI logic in JavaScript</em>
+  </li>
   <li>
     <strong><a href="https://klabs.vercel.app">K-Labs</a></strong><br>
     A modern agency website offering web development, marketing, branding, and motion graphics services.<br>
     <em>Built with Next.js & Tailwind CSS</em>
   </li>
-
-  <li>
-    <strong><a href="https://github.com/KidusBasazinew/fruit-ecommerce">Fruit E-commerce</a></strong><br>
-    A sleek fruit store with full cart functionality and admin panel.<br>
-    <em>Built with Next.js, Prisma, and MySQL</em>
-  </li>
-
-  <li>
-    <strong><a href="https://github.com/KidusBasazinew/restaurant-booking">Restaurant Booking</a></strong><br>
-    A user-friendly restaurant website for viewing menus and booking tables.<br>
-    <em>Built with React and CSS Modules</em>
-  </li>
-
-  <li>
-    <strong><a href="https://github.com/KidusBasazinew/real-estate-app">Real Estate App</a></strong><br>
-    Search and list properties with responsive UI and modern tools.<br>
-    <em>Built with Next.js and Supabase</em>
-  </li>
-
   <li>
     <strong><a href="https://github.com/KidusBasazinew/hotel-management-system">Hotel Management System</a></strong> 🏨<br>
     A full-featured hotel reservation and management system with backend integration.<br>
@@ -56,12 +43,6 @@ Hey, I'm Kidus — a passionate indie developer building digital experiences tha
     <strong><a href="https://github.com/KidusBasazinew/restaurant-table-booking">Restaurant Table Booking and Ordering System</a></strong> 🍽️<br>
     An interactive system that lets users reserve tables and order meals ahead of time.<br>
     <em>Built with React and Node.js</em>
-  </li>
-
-  <li>
-    <strong><a href="https://github.com/KidusBasazinew/ai-travel-planner">AI-Based Travel Planner</a></strong> 🧠<br>
-    A smart planner that checks live weather and suggests destinations dynamically.<br>
-    <em>Built with OpenWeather API & AI logic in JavaScript</em>
   </li>
 </ul>
 
