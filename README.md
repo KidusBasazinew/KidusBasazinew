@@ -1,4 +1,4 @@
-# 🏄‍♂️ Kidus Basainew
+# 🏄‍♂️ Kidus Basazinew
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
 Hey, I'm Kidus — a passionate indie developer building digital experiences that matter. Whether it's a stunning frontend, a robust backend, or something totally out of the box, I'm all about solving real-world problems through code and creativity. Every line I write, and every pixel I design, is part of my journey to leave a digital mark.
