@@ -18,11 +18,10 @@ I also share my journey, projects, and dev tips through short-form content and e
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-### 📺 Latest Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
+### 📺 Latest Projects
 
-## 🚀 Latest Projects
 
 - **[K-Labs](https://klabs.vercel.app)**  
   A modern agency website offering web development, marketing, branding, and motion graphics services.  
