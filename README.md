@@ -30,16 +30,30 @@ I also share my journey, projects, and dev tips through short-form content and e
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-### 📺 Latest YouTube Videos
+### 📺 Latest Projects
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
-[![Netflix is Built on Java](https://ytcards.demolab.com/?id=sMPMiy0NsUs&title=Netflix+is+Built+on+Java&lang=en&timestamp=1746795687&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=813 "Netflix is Built on Java")](https://www.youtube.com/watch?v=sMPMiy0NsUs)
-[![Linux officially won.](https://ytcards.demolab.com/?id=AOs_iA1wJcM&title=Linux+officially+won.&lang=en&timestamp=1745959930&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3036 "Linux officially won.")](https://www.youtube.com/watch?v=AOs_iA1wJcM)
-[![Why You Never Finish Your Programming Projects](https://ytcards.demolab.com/?id=KIi0FOP9Qe4&title=Why+You+Never+Finish+Your+Programming+Projects&lang=en&timestamp=1745850613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=649 "Why You Never Finish Your Programming Projects")](https://www.youtube.com/watch?v=KIi0FOP9Qe4)
-[![OpenAI ACTUALLY made something open source.](https://ytcards.demolab.com/?id=t3GQiZMLPUg&title=OpenAI+ACTUALLY+made+something+open+source.&lang=en&timestamp=1744928104&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=587 "OpenAI ACTUALLY made something open source.")](https://www.youtube.com/watch?v=t3GQiZMLPUg)
-[![I Tried 5 Programming Languages So You Don’t Have To](https://ytcards.demolab.com/?id=7OPLE0cF8JU&title=I+Tried+5+Programming+Languages+So+You+Don%E2%80%99t+Have+To&lang=en&timestamp=1744902011&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=398 "I Tried 5 Programming Languages So You Don’t Have To")](https://www.youtube.com/watch?v=7OPLE0cF8JU)
-[![One Shot AI Coding](https://ytcards.demolab.com/?id=27GYfREZdeU&title=One+Shot+AI+Coding&lang=en&timestamp=1744281001&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=88 "One Shot AI Coding")](https://www.youtube.com/watch?v=27GYfREZdeU)
+## 🚀 Latest Projects
+
+- **[K-Labs](https://klabs.vercel.app)**  
+  A modern agency website offering web development, marketing, branding, and motion graphics services.  
+  _Built with Next.js & Tailwind CSS_
+
+- **[Fruit E-commerce](https://github.com/yourusername/fruit-ecommerce)**  
+  A sleek fruit store with full cart functionality and admin panel.  
+  _Built with Next.js, Prisma, and MySQL_
+
+- **[Restaurant Booking](https://github.com/yourusername/restaurant-booking)**  
+  A user-friendly restaurant website for viewing menus and booking tables.  
+  _Built with React and CSS Modules_
+
+- **[Real Estate App](https://github.com/yourusername/real-estate-app)**  
+  Search and list properties with responsive UI and modern tools.  
+  _Built with Next.js and Supabase_
+
+<!-- Replace "yourusername" with your actual GitHub username -->
+
 
 <!-- END YOUTUBE-CARDS -->
 
