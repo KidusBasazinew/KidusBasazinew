@@ -36,12 +36,7 @@ Hey, I'm Kidus — a passionate indie developer building digital experiences tha
   Search and list properties with responsive UI and modern tools.  
   _Built with Next.js and Supabase_
 
-<!-- Replace "yourusername" with your actual GitHub username -->
 
-
-<!-- END YOUTUBE-CARDS -->
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 <details>
   <summary><h3>👨‍💻 Kidus' Coding Journey</h3></summary>
